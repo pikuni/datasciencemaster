@@ -1,3 +1,2 @@
-# Introducing Machine Learning
+# Page
 
-ML stands for Machine Learning.
